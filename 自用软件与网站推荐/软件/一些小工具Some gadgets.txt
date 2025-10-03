@@ -1,0 +1,107 @@
+## Geek
+
+​	By uninstalling the software, you can directly delete the software's registry, or delete the useless software that comes with Windows.
+​	卸载软件，可以直接删除软件的注册表，也可以删除windows自带的鸡肋软件。
+
+## WizTree
+
+​	Visualize the storage occupancy of the computer, so as to know that those software occupies a lot of storage and efficiently delete files in the computer.
+​	可视化电脑的储存占用，从而知道那些软件占用的储存多，高效删除电脑中的文件。
+
+## Powertoys
+
+​	The software expansion package that comes with Windows (the official made it myself, I think the adaptability is probably higher than that of Utool). The author most commonly uses window top and alt+space to directly search for files and color collectors in the computer.
+​	windows自带的软件拓展包(官方自己做的，我觉得适配度大概比utool高一些)，作者最常用的是窗口置顶与alt+space直接搜索电脑中的文件以及取色器。
+
+## Scrcpy
+
+​	Open source software, github repository: [Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy) Android mobile phone pad screen projection computer tool.
+​	开源软件，github仓库：[Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
+安卓手机pad投屏电脑利器。
+
+## Evething
+
+​	Searching for software on your computer is ten thousand times better than the search provided by Windows.
+​	搜索电脑中的软件，比windows自带的搜索好用一万倍。
+
+## IDM and NDM
+
+​	Two download tools can be embedded in the browser. For most files, download speeds are much faster than downloading the browser. Some small network disk files can be downloaded directly. Don't save it to the network disk.
+​	两个下载工具，可以嵌入浏览器中，对于大多数文件下载速度比浏览器下载快许多，有些小的网盘文件可以直接下载。不用保存到网盘。
+
+## Bandicampro
+
+​	Screen recording software, you can also use OBS.
+​	录屏软件，也可以用OBS。
+
+## STranslate
+
+​	Open source software, project warehouse: [ZGGSONG/STranslate: A ready-to-go translation ocr tool developed with WPF/WPF A ready-to-go translation and OCR tool developed](https://github.com/ZGGSONG/STranslate) Select translation and screenshot translation.
+​	开源软件，项目仓库：[ZGGSONG/STranslate: A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具](https://github.com/ZGGSONG/STranslate)
+​	选中翻译与截图翻译。
+
+## Grammarly
+
+​	Check for English grammar errors.
+​	检查英文语法错误。
+
+## Eartrumpet
+
+​	The volume of individual software can be adjusted.
+​	可以调整各个单个软件的音量。
+
+## qbittorrent
+
+​	High-speed magnetic download is much better than Thunder anyway. High-speed magnetic download is much better than Thunder anyway.
+​	高速磁力下载，反正比迅雷好多了。
+
+## Snipaste
+
+​	Screenshot software can realize screenshot retention and zoom in and out.
+​	截图软件，可以实现截图滞留与其放大缩小。
+
+## TranslucentTB
+
+​	Transparent taskbar display can be used with hidden taskbar to beautify the desktop.
+​	透明任务栏显示，可以与隐藏任务栏一起使用，美化桌面。
+
+## lx music
+
+​	Open source project, warehouse: [lyswhut/lx-music-desktop: an electronic-based music software](https://github.com/lyswhut/lx-music-desktop) Listen to all music for free, the disadvantage is that it is non-three-end interoperability. Less recommendations.
+​	开源项目，仓库：[lyswhut/lx-music-desktop: 一个基于 electron 的音乐软件](https://github.com/lyswhut/lx-music-desktop)
+​	免费听所有音乐，缺点是非三端互通。推荐较少。
+
+## Quicker
+
+​	Efficiency tools have many small functions, and you can also write scripts by yourself, but the learning cost is high, but you can use scripts written by others for free, and the free version is completely enough. The author is Chinese.
+​	效率工具，里面有许多小功能，也可以自己编写脚本，只是学习成本较高，但是可以免费用别人写好的脚本，免费版完全够用。作者是中国人。
+
+## 火绒
+
+​	It is not recommended to install any products of 360 and 2345. A very powerful antivirus software, you must turn it off when downloading certain resources, otherwise there may be fewer files.
+​	不推荐装360与2345的任何产品。很强的杀毒软件，下载某些资源时要关掉，不然可能会少文件。
+
+## 7-zip
+
+​	Decompression software, quick decompression, is better than the ones that come with Windows.
+​	解压软件，快速解压，比windows自带的好一些。
+
+## xmind
+
+​	Mind Mapping Tool
+​	思维导图工具
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

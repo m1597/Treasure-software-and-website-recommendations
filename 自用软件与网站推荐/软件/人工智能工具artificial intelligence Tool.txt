@@ -1,0 +1,19 @@
+## 语言大模型Language model
+
+### Cherry studio
+
+​	An open source, cross-platform AI desktop client. You can call the downloaded large model on it, or use the API to call the large model without using scientific Internet access, or build your own local knowledge base.
+​	一款开源、跨平台的 AI 桌面客户端。你可以在上面调用下载到本地的大模型，也可以使用api不使用科学上网调用大模型，也可以构建自己的本地知识库。
+
+### Ollama
+
+​	Ollama is an open source, cross-platform local large language model (LLM) management tool. Of course, its interface is relatively primitive. It is recommended to install the large model on Ollama and call it in Cherry studio.
+​	Ollama 是一款开源、跨平台的本地大语言模型（LLM）管理工具，当然他的界面比较原始，推荐在ollama上面安装大模型之后到Cherry studio中调用。
+
+## ALGC(AI绘图AI drawing)
+
+​	Novice only recommends Qiuye Big Boss' integration package (webui and comfyui). The drawing model is not shared here. It is recommended to find popular ones on C site or in hugging face.
+​	新手只推荐秋叶大佬的整合包(webui与comfyui)，绘图模型这里不做分享，推荐在c站或者在hugging face中自己寻找热门的。
+
+
+

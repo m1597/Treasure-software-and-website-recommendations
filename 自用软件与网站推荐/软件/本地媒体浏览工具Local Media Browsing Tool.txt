@@ -1,0 +1,15 @@
+## Video display-视频播放-potplayer
+
+## Picture browsing-图片浏览-honeyview
+
+## Audio presentations-音频播放-fooar2000
+
+## Typora-markdown-文本编辑器
+
+## vscode-轻量级文本编辑器Lightweight text editor
+
+​	The above software has many functions and supports many formats. It may require some settings to have a good experience.
+​	前三个软件功能繁多，支持的格式较多，可能需要一些设置才可以有较好的体验
+
+​	About word excel powerpoint can be used to use office pdf browser can be used to use Foxit Reader (personally think)
+​	关于word excel powerpoint 可以用office  pdf浏览器可以使用用福昕阅读器（个人觉得）

@@ -1,0 +1,50 @@
+## 关于浏览器 About the browser
+
+​	Recommend Google and edge, and the former is also recommended. (edge is Google kernel)
+​	推荐google与edge，更推荐前者。(edge是google内核)
+
+## 浏览器插件browser plug-in
+
+### Adguard
+
+​	Browser to advertise.
+​	浏览器去广告。
+
+### 浮图秀
+
+​	The mouse is placed on the picture and automatically enlarges the picture.
+​	鼠标放在图片上自动放大图片。
+
+### 油猴
+
+​	Scripts are similar to quicker.
+​	yyds，脚本，和quicker差不多性质。
+
+## fireshot
+
+​	Browser long screenshot.
+​	浏览器长截图。
+
+### 青柠起始页
+
+​	Clean start page.
+​	洁净的起始页。
+
+### bilibili哔哩哔哩下载助手
+
+​	Download videos on B.com for free. Pay attention to copyright.
+​	免费下载b站视频。注意版权。
+
+## 注意ps：
+
+​	Some recommended software also have corresponding browser plug-ins.
+​	部分推荐软件也有对应的浏览器插件。
+
+
+
+
+
+
+
+
+
