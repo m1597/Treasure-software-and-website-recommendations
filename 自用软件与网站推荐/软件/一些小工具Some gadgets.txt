@@ -19,7 +19,7 @@
 ​	开源软件，github仓库：[Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
 安卓手机pad投屏电脑利器。
 
-## Evething
+## Everything
 
 ​	Searching for software on your computer is ten thousand times better than the search provided by Windows.
 ​	搜索电脑中的软件，比windows自带的搜索好用一万倍。
